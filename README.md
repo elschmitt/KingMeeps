@@ -9,3 +9,5 @@ Checker pieces have hidden attributes that players assign during their turn. Att
 Animation sequence will occur when a checker piece with a hidden attribute jumps another player, or is jumped by the opposing player.
 
 The initial build of this game will be using JavaScript.
+
+The characters in the game have been created by my children.
